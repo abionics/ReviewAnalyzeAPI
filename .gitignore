@@ -1,0 +1,7 @@
+.idea/
+venv/
+
+**/.ipynb_checkpoints/
+**/dataset/*
+**/pickles/*
+!.gitkeep

@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+torch
+spacy
+# python -m spacy download en_core_web_sm
+requests
+fastapi
+uvicorn[standard]
