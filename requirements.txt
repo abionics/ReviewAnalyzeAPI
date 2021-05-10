@@ -6,4 +6,5 @@ spacy
 # python -m spacy download en_core_web_sm
 requests
 fastapi
+pydantic
 uvicorn[standard]
