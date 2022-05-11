@@ -6,4 +6,6 @@ venv/
 **/.ipynb_checkpoints/
 **/dataset/
 **/pickles/
-!.gitkeep
+
+.gitignore
+.git/
